@@ -14,4 +14,4 @@ In the semiconductor manufacturing industry, ensuring the reliability of wafer f
 - Jupyter Notebook
 - SQL (BigQuery)
 - Google Cloud Platform
-- Visualization: Looker, Spreadsheet
+- Visualization: Google Data Studio, Looker, Spreadsheet
