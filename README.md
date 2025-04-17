@@ -15,3 +15,5 @@ In the semiconductor manufacturing industry, ensuring the reliability of wafer f
 - SQL (BigQuery)
 - Google Cloud Platform
 - Visualization: Google Data Studio, Looker, Spreadsheet
+
+Note: Under Database Design and Implementation, the ER diagram can be obtained from:https://drawsql.app/teams/jesd/diagrams/sds
