@@ -1,9 +1,9 @@
-/* Step 1: check whether the data can extract efficiently or not*/
+--Step 1: check whether the data can extract efficiently or not
 SELECT * 
 FROM `database.tool_sensor_data_cleaned.tool sensor data` 
 LIMIT 10
 
-/* Step 2: Querying & Filtering data */
+--Step 2: Querying & Filtering data
 --1. odered by time
 SELECT *
 FROM `database.tool_sensor_data_cleaned.tool sensor data` 
@@ -29,7 +29,7 @@ SELECT *
 FROM `database.tool_sensor_data_cleaned.tool sensor data`
 WHERE OunhHslCRwIRilo IS NOT NULL
 
-/* Step 4: Exploratory Data Analysis (EDA) */
+--Step 4: Exploratory Data Analysis (EDA)
 --Standardization
 WITH sensor_data AS (
   SELECT
